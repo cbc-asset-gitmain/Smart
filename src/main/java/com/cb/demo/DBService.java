@@ -34,7 +34,6 @@ public class DBService {
             response.lastname = rs.getString("last_name");
         }
 
-#test comment
         return response;
 
 
